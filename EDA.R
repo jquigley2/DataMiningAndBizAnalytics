@@ -21,7 +21,7 @@
 #8.) implement insights
 
 #Chapter 2: Processing the Info and Getting to Know Your Data ###############
-http://www.biz.uiowa.edu/faculty/jledolter/DataMining
+# http://www.biz.uiowa.edu/faculty/jledolter/DataMining
 
 #2.1 Example 1: 2006 Birth Data #############################################
 #From R in a Nutshell, Adler 2009
